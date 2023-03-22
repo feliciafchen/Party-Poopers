@@ -1,0 +1,14 @@
+//
+// Created by Felicia Chen on 11/22/22.
+//
+
+#ifndef FELICIACHENCS3AFINAL_TEXTURES_H
+#define FELICIACHENCS3AFINAL_TEXTURES_H
+
+
+class Textures {
+
+};
+
+
+#endif //FELICIACHENCS3AFINAL_TEXTURES_H

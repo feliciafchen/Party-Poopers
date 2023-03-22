@@ -1,0 +1,13 @@
+//
+// Created by Felicia Chen on 11/28/22.
+//
+
+#ifndef FELICIACHENCS3AFINAL_IMAGEENUM_H
+#define FELICIACHENCS3AFINAL_IMAGEENUM_H
+enum imageEnum
+{
+    PHASER, BLOB, GRASS, MOB,
+
+    LAST_IMAGE
+};
+#endif //FELICIACHENCS3AFINAL_IMAGEENUM_H

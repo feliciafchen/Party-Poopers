@@ -1,0 +1,3 @@
+/Users/feliciachen/Desktop/CLionProjects/shoota/cmake-build-debug/CMakeFiles/shoota.dir
+/Users/feliciachen/Desktop/CLionProjects/shoota/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/feliciachen/Desktop/CLionProjects/shoota/cmake-build-debug/CMakeFiles/rebuild_cache.dir
